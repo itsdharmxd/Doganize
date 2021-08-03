@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1013321963318",
+    "firebase_url": "https://dorganize-da3c0.firebaseio.com",
+    "project_id": "dorganize-da3c0",
+    "storage_bucket": "dorganize-da3c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013321963318:android:cf39e0cfe8c89389780597",
+        "android_client_info": {
+          "package_name": "com.example.Dorganize"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1013321963318-8j2cg5topq84hl5elcn1i31d1gena3ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOh4s90JAKKj5Xq4nIfMjX1L1BlqS1U84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1013321963318-8j2cg5topq84hl5elcn1i31d1gena3ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
