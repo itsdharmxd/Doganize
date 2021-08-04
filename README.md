@@ -12,12 +12,18 @@ A Android Applcation developed in Flutter
 - Authentication support
 - Utilize  your time more accurately
 
-![screenshot](https://raw.githubusercontent.com/itsdharmxd/CoderSearch/main/images/Landing.png)
+![screenshot](https://raw.githubusercontent.com/itsdharmxd/Doganize/main/Displayimages/time.jpeg)
 
-![screenshot](https://raw.githubusercontent.com/itsdharmxd/CoderSearch/main/images/profile.png)
+![screenshot](https://raw.githubusercontent.com/itsdharmxd/Doganize/main/Displayimages/landing.jpeg)
 
-![screenshot](https://raw.githubusercontent.com/itsdharmxd/CoderSearch/main/images/profiles.png)
+![screenshot](https://raw.githubusercontent.com/itsdharmxd/Doganize/main/Displayimages/drawer.jpeg)
 
-![screenshot](https://raw.githubusercontent.com/itsdharmxd/CoderSearch/main/images/profiles2.png)
+![screenshot](https://raw.githubusercontent.com/itsdharmxd/Doganize/main/Displayimages/rangedate.jpeg)
 
-![screenshot](https://raw.githubusercontent.com/itsdharmxd/CoderSearch/main/images/register.png)
+![screenshot](https://raw.githubusercontent.com/itsdharmxd/Doganize/main/Displayimages/rangeselect.jpeg)
+
+![screenshot](https://raw.githubusercontent.com/itsdharmxd/Doganize/main/Displayimages/rangetime.jpeg)
+
+![screenshot](https://raw.githubusercontent.com/itsdharmxd/Doganize/main/Displayimages/schedule.jpeg )
+
+![screenshot](https://raw.githubusercontent.com/itsdharmxd/Doganize/main/Displayimages/table.jpeg)
